@@ -1,0 +1,22 @@
+{
+  "name": "dict",
+  "version": "1.0.0",
+  "description": "This is a command line game using which a user can learn more about different words.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anku802/dictionary_tool.git"
+  },
+  "keywords": [
+    "dictionarytool"
+  ],
+  "author": "Ankush Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anku802/dictionary_tool/issues"
+  },
+  "homepage": "https://github.com/anku802/dictionary_tool#readme"
+}
