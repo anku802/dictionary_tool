@@ -1,0 +1,10 @@
+To Start Application:- 
+
+npm install
+node index.js
+
+
+dicApis.js file contains all the server related api's to get the data.
+
+index file sends the command output to routes/routes.js where all the functions based on command and game state are called.
+
