@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/anku802/dictionary_tool/issues"
   },
-  "homepage": "https://github.com/anku802/dictionary_tool#readme"
+  "homepage": "https://github.com/anku802/dictionary_tool#readme",
+  "dependencies": {
+    "http": "0.0.0",
+    "inquirer": "^7.0.3",
+    "underscore": "^1.9.2"
+  }
 }
